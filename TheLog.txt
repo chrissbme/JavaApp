@@ -1,0 +1,697 @@
+﻿2013-02-26 22:09:33.2411|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.ShellViewModel.
+2013-02-26 22:01:22.6210|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\emkne0th.1n5
+2013-02-26 22:01:22.6260|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\7za.exe', Args: 'x -y "-oC:\Users\Chriss\AppData\Local\GitHub\emkne0th.1n5" "C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\chromium-pack.7z"'
+2013-02-26 22:01:22.7150|INFO|thread:1|GitHub.Helpers.PortablePackageManager|Extracting chromium-pack.7z is (so far) successful
+2013-02-26 22:01:23.7681|INFO|thread:6|GitHub.Helpers.PortablePackageManager|GitHub.IO.ObservableProcess
+2013-02-26 22:01:24.3081|INFO|thread:1|GitHub.Models.UserSettings|Refreshing user settings
+2013-02-26 22:01:24.4551|INFO|thread:1|GitHub.Models.UserSettings|Refreshed user settings
+2013-02-26 22:01:24.4551|WARN|thread:1|GitHub.Models.RepositoryHostCollection|Failed to get repository host URIs from cache.
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+2013-02-26 22:01:24.5801|WARN|thread:1|POCOObservableForProperty|GitHub.ViewModels.AppContext is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-02-26 22:01:24.6021|INFO|thread:8|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache.api.github.com
+2013-02-26 22:01:24.6021|INFO|thread:8|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\Cef_115967
+2013-02-26 22:01:24.6131|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Started app with command: 
+2013-02-26 22:01:24.6131|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Parsing command line arguments:
+2013-02-26 22:01:24.6131|INFO|thread:1|GitHub.Helpers.CommandLineHandler|
+http://github-windows.s3.amazonaws.com/GitHub.application
+2013-02-26 22:01:24.6131|INFO|thread:1|GitHub.Helpers.AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2013-02-26 22:01:24.6131|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2013-02-26 22:01:24.6131|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2013-02-26 22:01:24.6281|INFO|thread:6|GitHub.Helpers.SharedCacheMigrator|Migrating shared cache to the github.com host-specific cache.
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| #########################################
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| GitHub for Windows started. VERSION: 1.0.38.1
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| Build version: 1bdeaaf90f28db3bb49c2aa78040f2f09169c920
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***************************************
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***        Have a problem?          ***
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***    Email support@github.com     ***
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***      and include this file      ***
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***************************************
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| CLR Version: 4.0.30319.18034
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| Current culture: en-US
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| Terminal Services session: no
+2013-02-26 22:01:24.6671|INFO|thread:6|GitHub.AppStartup.StartupLogging| Location: C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\GitHub.exe
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.AppStartup.StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2013-02-26 22:01:24.6911|INFO|thread:1|GitHub.Helpers.ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\Images\App.ico'
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: :
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Users\Chriss\AppData\Local\Google\Chrome\Application;E:\app\Chriss\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.AppStartup.StartupLogging| =====================================================
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.AppStartup.StartupLogging|  DIAGNOSTICS                                        |
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.AppStartup.StartupLogging| =====================================================
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.AppStartup.StartupLogging| Git Extracted: 'False:
+2013-02-26 22:01:24.6911|ERROR|thread:6|GitHub.AppStartup.StartupLogging| MISSING PortableGit Dir: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6'
+2013-02-26 22:01:24.6911|ERROR|thread:6|GitHub.PortableGit.Helpers.PortableGitManager|git.exe doesn't exist at 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe'
+2013-02-26 22:01:24.6911|ERROR|thread:6|GitHub.AppStartup.StartupLogging| MISSING Git Executable: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe'
+2013-02-26 22:01:24.6911|ERROR|thread:6|GitHub.AppStartup.StartupLogging| MISSING PATH!!: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd'
+2013-02-26 22:01:24.6911|ERROR|thread:6|GitHub.AppStartup.StartupLogging| MISSING PATH!!: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin'
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.AppStartup.StartupLogging| ----------------------------------------------------
+2013-02-26 22:01:24.6911|INFO|thread:6|GitHub.AppStartup.StartupLogging| PATH: C:\Users\Chriss\AppData\Local\Google\Chrome\Application;E:\app\Chriss\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+2013-02-26 22:01:24.7041|INFO|thread:6|GitHub.Helpers.StartupLogger|Proxy information: (None)
+2013-02-26 22:01:24.7041|INFO|thread:6|GitHub.Helpers.StartupLogger|Couldn't fetch creds for proxy
+2013-02-26 22:01:24.7041|INFO|thread:6|GitHub.Helpers.UrlProtocolInstaller|Registered UrlAppLauncher protocol: "C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\GitHub.exe" -u="%1"
+2013-02-26 22:01:24.7041|INFO|thread:6|GitHub.Helpers.ShortcutManager|Shortcut 'C:\Users\Chriss\AppData\Local\GitHub\GitHub.appref-ms' missing. Assuming a first run.
+2013-02-26 22:01:24.7041|INFO|thread:6|GitHub.Helpers.ShortcutManager|Copying the Start Menu shortcut 'C:\Users\Chriss\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms' to 'C:\Users\Chriss\AppData\Local\GitHub\GitHub.appref-ms'
+2013-02-26 22:01:24.7501|INFO|thread:6|GitHub.Helpers.ShortcutManager|Saving the Git Shell shortcut C:\Users\Chriss\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\Git Shell.lnk
+2013-02-26 22:01:24.7501|INFO|thread:6|GitHub.Helpers.ShortcutManager|Saving the Git Shell shortcut C:\Users\Chriss\Desktop\Git Shell.lnk
+2013-02-26 22:01:25.1302|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2013-02-26 22:01:25.1302|INFO|thread:6|GitHub.ViewModels.GitExtractionVisualHelper|Attempting to extract Portable Git.
+2013-02-26 22:01:25.1302|INFO|thread:6|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\7za.exe', Args: 'x -y "-oC:\Users\Chriss\AppData\Local\GitHub\akk3y42k.yrx" "C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\PortableGit.7z"'
+2013-02-26 22:01:25.1302|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Extracting PortableGit.7z is (so far) successful
+2013-02-26 22:01:25.1302|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:01:25.6922|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.WelcomeWizardViewModel.
+2013-02-26 22:01:34.7167|INFO|thread:5|GitHub.ViewModels.SoftwareUpdateViewModel|Checking for new version
+2013-02-26 22:01:35.6978|INFO|thread:11|GitHub.Api.ObservableRestClient|https://github-windows.s3.amazonaws.com/changelog.json
+2013-02-26 22:01:36.8568|INFO|thread:10|GitHub.Helpers.PortablePackageManager|GitHub.IO.ObservableProcess
+2013-02-26 22:01:36.8568|INFO|thread:4|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache
+2013-02-26 22:01:36.8568|INFO|thread:4|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache.api.github.com
+2013-02-26 22:01:36.8568|INFO|thread:4|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\Cef_115967
+2013-02-26 22:01:36.8568|INFO|thread:4|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6
+2013-02-26 22:01:36.9978|INFO|thread:10|GitHub.Helpers.GitHubShellSetupHelper|Wrote GitHubShell setup script here 'C:\Users\Chriss\AppData\Local\GitHub\shell.ps1'
+2013-02-26 22:01:54.8859|INFO|thread:12|GitHub.Api.ObservableRestClient|https://api.github.com/user
+2013-02-26 22:01:54.8879|INFO|thread:12|GitHub.Models.RepositoryHost|Logging in succeeded. Saving credentials.
+2013-02-26 22:01:54.9589|INFO|thread:9|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-02-26 22:01:54.9589|INFO|thread:9|GitHub.ConfigurationFactory|Didn't find '~/.gitconfig', creating one.
+2013-02-26 22:01:54.9809|INFO|thread:19|GitHub.ViewModels.LoginViewModel|Running post login tasks. ~/.gitconfig is set up with user.name = '' and user.email = ''
+2013-02-26 22:01:54.9809|INFO|thread:9|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-02-26 22:01:54.9809|INFO|thread:10|GitHub.PortableGit.Helpers.SSHKeyHelper|Couldn't find SSH key pair, generating new ones
+2013-02-26 22:01:54.9809|INFO|thread:8|GitHub.PortableGit.Helpers.SSHProcessManager|Starting ssh-agent and adding key C:\Users\Chriss\.ssh\github_rsa
+2013-02-26 22:01:54.9999|INFO|thread:10|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: :
+2013-02-26 22:01:54.9999|INFO|thread:10|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:01:54.9999|INFO|thread:8|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: :
+2013-02-26 22:01:54.9999|INFO|thread:8|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:01:54.9999|INFO|thread:10|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\ssh-keygen.exe', Args: '-t rsa -N "" -f "C:\Users\Chriss\.ssh\github_rsa"'
+2013-02-26 22:01:54.9999|INFO|thread:8|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\ssh-agent.exe', Args: ''
+2013-02-26 22:01:55.0539|INFO|thread:8|GitHub.PortableGit.Helpers.SSHKeyHelper|Setting environment variable in our blob cache. SSH_AUTH_SOCK = /tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:01:55.3889|INFO|thread:12|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:01:55.5109|INFO|thread:12|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:01:55.5109|INFO|thread:12|GitHub.ViewModels.DashboardViewModel|Refreshing list of repos
+2013-02-26 22:01:55.6539|INFO|thread:12|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Private&page=0&per_page=100
+2013-02-26 22:01:56.0709|INFO|thread:11|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Public&page=0&per_page=100
+2013-02-26 22:01:56.2069|INFO|thread:12|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Member&page=0&per_page=100
+2013-02-26 22:01:56.2640|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-02-26 22:01:56.2640|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-02-26 22:01:56.2640|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-02-26 22:01:58.4031|INFO|thread:12|GitHub.Api.ObservableRestClient|https://api.github.com/user
+2013-02-26 22:01:58.7481|INFO|thread:12|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:02:02.1553|INFO|thread:12|GitHub.Api.ObservableRestClient|https://api.github.com/user/keys
+2013-02-26 22:02:02.1643|INFO|thread:12|GitHub.Api.GitHubClient|About to add SSH Key: GitHub for Windows - Chriss-PC - ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAxuagmpnhVnYO/UOrl6mpYdknvYGu/H8rYLwU70HM/Y3udzU4J1TYzz5aH1cntU9x8BkWT6h/10ed9+5LCB6G8hbroKmBSAtLe62EAbgvO8Xb9Zdh9Y3U1zPj/TGdAT304BG2b1vvjAsJYVZHMLcCHYB75KSqngYSvC+ixj3JNZJNKb5vCavPqTzhhAYxmnwGkhtg01iS8WQiXlRJgQXomJfuF3PErDITcv6PVx6oT+mwI4UaSxTiEIVEpODr5qDL39sBE6w1pzX6lYtscjf95yX1zHBtIJ0D/ABilBJYd99jefPWphN35V0U4/M7fyN8DQhSlVcIggUybd4Y7asW1w== Chriss@CHRISS-PC
+
+2013-02-26 22:02:02.5523|INFO|thread:17|GitHub.Api.ObservableRestClient|https://api.github.com/user/keys
+2013-02-26 22:02:02.5523|WARN|thread:17|GitHub.Api.Extensions.RestSharpObservableMixins|Response Failed: Status: 'Completed', StatusCode: 'Created', Uri: 'https://api.github.com/user/keys', Body: '{"id":4231975,"key":"ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAxuagmpnhVnYO/UOrl6mpYdknvYGu/H8rYLwU70HM/Y3udzU4J1TYzz5aH1cntU9x8BkWT6h/10ed9+5LCB6G8hbroKmBSAtLe62EAbgvO8Xb9Zdh9Y3U1zPj/TGdAT304BG2b1vvjAsJYVZHMLcCHYB75KSqngYSvC+ixj3JNZJNKb5vCavPqTzhhAYxmnwGkhtg01iS8WQiXlRJgQXomJfuF3PErDITcv6PVx6oT+mwI4UaSxTiEIVEpODr5qDL39sBE6w1pzX6lYtscjf95yX1zHBtIJ0D/ABilBJYd99jefPWphN35V0U4/M7fyN8DQhSlVcIggUybd4Y7asW1w==","url":"https://api.github.com/user/keys/4231975","title":"GitHub for Windows - Chriss-PC","verified":true}'
+2013-02-26 22:02:02.5523|WARN|thread:17|GitHub.Api.Extensions.RestSharpObservableMixins|Response Failed: Status: 'Completed', StatusCode: 'Created', Uri: 'https://api.github.com/user/keys', Body: '{"id":4231975,"key":"ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAxuagmpnhVnYO/UOrl6mpYdknvYGu/H8rYLwU70HM/Y3udzU4J1TYzz5aH1cntU9x8BkWT6h/10ed9+5LCB6G8hbroKmBSAtLe62EAbgvO8Xb9Zdh9Y3U1zPj/TGdAT304BG2b1vvjAsJYVZHMLcCHYB75KSqngYSvC+ixj3JNZJNKb5vCavPqTzhhAYxmnwGkhtg01iS8WQiXlRJgQXomJfuF3PErDITcv6PVx6oT+mwI4UaSxTiEIVEpODr5qDL39sBE6w1pzX6lYtscjf95yX1zHBtIJ0D/ABilBJYd99jefPWphN35V0U4/M7fyN8DQhSlVcIggUybd4Y7asW1w==","url":"https://api.github.com/user/keys/4231975","title":"GitHub for Windows - Chriss-PC","verified":true}'
+2013-02-26 22:02:02.5523|INFO|thread:10|GitHub.ViewModels.LoginViewModel|SSH key was added to GitHub account
+2013-02-26 22:02:03.1073|INFO|thread:8|GitHub.PortableGit.Helpers.SSHKeyHelper|Setting environment variable in our blob cache. SSH_AGENT_PID = 8132
+2013-02-26 22:02:06.5065|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.WelcomeWizardViewModel.
+2013-02-26 22:02:06.5065|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.WelcomeWizardViewModel.
+2013-02-26 22:02:06.6075|INFO|thread:16|GitHub.Models.UserSettings|Saving user settings
+2013-02-26 22:02:06.6075|INFO|thread:16|GitHub.Models.UserSettings|Saved user settings
+2013-02-26 22:02:09.9677|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.NewRepositoryViewModel.
+2013-02-26 22:02:11.2048|INFO|thread:8|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:02:11.2048|INFO|thread:8|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:02:11.2048|INFO|thread:8|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\ssh-add.exe', Args: '"C:\Users\Chriss\.ssh\github_rsa"'
+2013-02-26 22:02:54.6573|INFO|thread:1|GitHub.ViewModels.NewRepositoryViewModel|Creating and initializing new local repository here 'E:\Programming\MyRepository\JavaApp'
+2013-02-26 22:02:54.7423|WARN|thread:1|GitHub.Models.AppContextExtensions|No remote 'origin' for this repo 'E:\Programming\MyRepository\JavaApp\.git'
+2013-02-26 22:02:54.7423|INFO|thread:1|GitHub.ViewModels.NewRepositoryViewModel|Succeeded: 'E:\Programming\MyRepository\JavaApp\.git\'
+2013-02-26 22:02:54.7463|INFO|thread:1|GitHub.ViewModels.NewRepositoryViewModel|Creating on github.com in account 'chrissbme'
+2013-02-26 22:02:55.2783|INFO|thread:27|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos
+2013-02-26 22:02:55.2783|WARN|thread:27|GitHub.Api.Extensions.RestSharpObservableMixins|Response Failed: Status: 'Completed', StatusCode: 'Created', Uri: 'https://api.github.com/user/repos', Body: '{"id":8443065,"name":"JavaApp","full_name":"chrissbme/JavaApp","owner":{"login":"chrissbme","id":1093744,"avatar_url":"https://secure.gravatar.com/avatar/1b7f198eb459aba92cb5c01b54feb1f3?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png","gravatar_id":"1b7f198eb459aba92cb5c01b54feb1f3","url":"https://api.github.com/users/chrissbme","html_url":"https://github.com/chrissbme","followers_url":"https://api.github.com/users/chrissbme/followers","following_url":"https://api.github.com/users/chrissbme/following","gists_url":"https://api.github.com/users/chrissbme/gists{/gist_id}","starred_url":"https://api.github.com/users/chrissbme/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/chrissbme/subscriptions","organizations_url":"https://api.github.com/users/chrissbme/orgs","repos_url":"https://api.github.com/users/chrissbme/repos","events_url":"https://api.github.com/users/chrissbme/events{/privacy}","received_events_url":"https://api.github.com/users/chrissbme/received_events","type":"User"},"private":false,"html_url":"https://github.com/chrissbme/JavaApp","description":null,"fork":false,"url":"https://api.github.com/repos/chrissbme/JavaApp","forks_url":"https://api.github.com/repos/chrissbme/JavaApp/forks","keys_url":"https://api.github.com/repos/chrissbme/JavaApp/keys{/key_id}","collaborators_url":"https://api.github.com/repos/chrissbme/JavaApp/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/chrissbme/JavaApp/teams","hooks_url":"https://api.github.com/repos/chrissbme/JavaApp/hooks","issue_events_url":"https://api.github.com/repos/chrissbme/JavaApp/issues/events{/number}","events_url":"https://api.github.com/repos/chrissbme/JavaApp/events","assignees_url":"https://api.github.com/repos/chrissbme/JavaApp/assignees{/user}","branches_url":"https://api.github.com/repos/chrissbme/JavaApp/branches{/branch}","tags_url":"https://api.github.com/repos/chrissbme/JavaApp/tags{/tag}","blobs_url":"https://api.github.com/repos/chrissbme/JavaApp/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/chrissbme/JavaApp/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/chrissbme/JavaApp/git/refs{/sha}","trees_url":"https://api.github.com/repos/chrissbme/JavaApp/git/trees{/sha}","statuses_url":"https://api.github.com/repos/chrissbme/JavaApp/statuses/{sha}","languages_url":"https://api.github.com/repos/chrissbme/JavaApp/languages","stargazers_url":"https://api.github.com/repos/chrissbme/JavaApp/stargazers","contributors_url":"https://api.github.com/repos/chrissbme/JavaApp/contributors","subscribers_url":"https://api.github.com/repos/chrissbme/JavaApp/subscribers","subscription_url":"https://api.github.com/repos/chrissbme/JavaApp/subscription","commits_url":"https://api.github.com/repos/chrissbme/JavaApp/commits{/sha}","git_commits_url":"https://api.github.com/repos/chrissbme/JavaApp/git/commits{/sha}","comments_url":"https://api.github.com/repos/chrissbme/JavaApp/comments{/number}","issue_comment_url":"https://api.github.com/repos/chrissbme/JavaApp/issues/comments/{number}","contents_url":"https://api.github.com/repos/chrissbme/JavaApp/contents/{+path}","compare_url":"https://api.github.com/repos/chrissbme/JavaApp/compare/{base}...{head}","merges_url":"https://api.github.com/repos/chrissbme/JavaApp/merges","archive_url":"https://api.github.com/repos/chrissbme/JavaApp/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/chrissbme/JavaApp/downloads","issues_url":"https://api.github.com/repos/chrissbme/JavaApp/issues{/number}","pulls_url":"https://api.github.com/repos/chrissbme/JavaApp/pulls{/number}","milestones_url":"https://api.github.com/repos/chrissbme/JavaApp/milestones{/number}","notifications_url":"https://api.github.com/repos/chrissbme/JavaApp/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/chrissbme/JavaApp/labels{/name}","created_at":"2013-02-26T22:02:55Z","updated_at":"2013-02-26T22:02:55Z","pushed_at":"2013-02-26T22:02:55Z","git_url":"git://github.com/chrissbme/JavaApp.git","ssh_url":"git@github.com:chrissbme/JavaApp.git","clone_url":"https://github.com/chrissbme/JavaApp.git","svn_url":"https://github.com/chrissbme/JavaApp","homepage":null,"size":0,"watchers_count":0,"language":null,"has_issues":true,"has_downloads":true,"has_wiki":true,"forks_count":0,"mirror_url":null,"open_issues_count":0,"forks":0,"open_issues":0,"watchers":0,"permissions":{"admin":true,"push":true,"pull":true},"network_count":0,"master_branch":"master","default_branch":"master"}'
+2013-02-26 22:02:55.2783|INFO|thread:27|GitHub.Models.RepositoryModel|Setting up remote 'origin' with url = https://github.com/chrissbme/JavaApp.git for this repo 'E:\Programming\MyRepository\JavaApp\.git'
+2013-02-26 22:02:55.2973|INFO|thread:27|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.NewRepositoryViewModel.
+2013-02-26 22:02:55.2973|INFO|thread:27|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.NewRepositoryViewModel.
+2013-02-26 22:02:55.4053|INFO|thread:5|GitHub.Models.UserSettings|Saving user settings
+2013-02-26 22:02:55.4053|INFO|thread:5|GitHub.Models.UserSettings|Saved user settings
+2013-02-26 22:02:55.4693|INFO|thread:11|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:03:03.2108|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:03:03.2108|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:03:03.2108|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:03:03.2608|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:03:03.2998|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:03:03.2998|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:03:03.2998|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:03:03.2998|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:03:03.3228|INFO|thread:19|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:03:03.3328|INFO|thread:5|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:03:03.3418|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:03:24.1120|INFO|thread:6|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:03:24.1560|INFO|thread:6|GitHub.Helpers.Git|Creating new commit with 2 file(s). Create GitHub Repository
+2013-02-26 22:03:24.1560|WARN|thread:6|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:03:24.2030|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:03:28.0982|INFO|thread:1|GitHub.Models.UserSettings|Refreshing user settings
+2013-02-26 22:03:28.0982|INFO|thread:1|GitHub.Models.UserSettings|Refreshed user settings
+2013-02-26 22:03:28.0982|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\7za.exe', Args: 'x -y "-oC:\Users\Chriss\AppData\Local\GitHub\1uorfetq.2o0" "C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\posh-git.7z"'
+2013-02-26 22:03:28.1132|INFO|thread:1|GitHub.Helpers.PortablePackageManager|Extracting posh-git.7z is (so far) successful
+2013-02-26 22:03:28.1642|INFO|thread:15|GitHub.Helpers.PortablePackageManager|GitHub.IO.ObservableProcess
+2013-02-26 22:03:28.1642|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:03:28.1642|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\NativeBinaries/x86;C:\Users\Chriss\AppData\Local\Google\Chrome\Application;E:\app\Chriss\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+2013-02-26 22:03:48.8504|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:03:48.8504|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:03:48.8504|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:03:48.8504|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:03:48.8504|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:03:48.8624|INFO|thread:33|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:03:48.8624|INFO|thread:34|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:03:48.8854|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:03:49.6754|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:03:49.6754|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:03:49.6754|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:03:49.6754|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:03:49.6754|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:03:49.6754|INFO|thread:35|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:03:49.6894|INFO|thread:35|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:03:49.7104|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:04:24.8244|INFO|thread:37|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:04:24.8244|INFO|thread:37|GitHub.Helpers.Git|Creating new commit with 2 file(s). Create GitHub Repository
+
+opt
+
+2013-02-26 22:04:24.8244|WARN|thread:37|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:04:24.8244|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:05:07.3529|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:05:07.3529|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:05:07.3609|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:05:07.3609|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:05:07.3609|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:05:07.3609|INFO|thread:30|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:05:07.3609|INFO|thread:40|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:05:07.3909|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:05:09.1940|INFO|thread:31|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:05:09.2020|INFO|thread:31|GitHub.Helpers.Git|Creating new commit with 2 file(s). Create GitHub Repository
+
+opt
+
+2013-02-26 22:05:09.2020|WARN|thread:31|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:05:09.2020|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:05:13.0282|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:05:13.0282|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:05:13.0282|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:05:13.5402|INFO|thread:39|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:05:17.3935|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:05:18.8865|INFO|thread:1|GitHub.Models.RepositoryHost|Logged user chrissbme off.
+2013-02-26 22:05:18.8905|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-02-26 22:05:18.8905|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-02-26 22:05:18.8905|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-02-26 22:05:18.8905|INFO|thread:1|GitHub.Helpers.LoginCache|Erasing the git credential cache for host 'api.github.com'
+2013-02-26 22:05:18.8905|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:05:18.8905|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:05:19.3776|INFO|thread:39|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:05:20.6506|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:05:21.0977|INFO|thread:39|GitHub.Api.ObservableRestClient|https://api.github.com/users/Test-Octowin
+2013-02-26 22:05:28.8121|INFO|thread:39|GitHub.Api.ObservableRestClient|https://api.github.com/user
+2013-02-26 22:05:28.8121|INFO|thread:39|GitHub.Models.RepositoryHost|Logging in succeeded. Saving credentials.
+2013-02-26 22:05:28.8121|INFO|thread:39|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:05:28.8121|INFO|thread:39|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:05:28.8121|INFO|thread:32|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-02-26 22:05:28.8121|INFO|thread:40|GitHub.ViewModels.LoginViewModel|Running post login tasks. ~/.gitconfig is set up with user.name = '' and user.email = ''
+2013-02-26 22:05:28.8121|INFO|thread:32|GitHub.PortableGit.Helpers.SSHKeyHelper|Setting environment variable in our blob cache. SSH_AGENT_PID = 8132
+2013-02-26 22:05:28.8121|INFO|thread:32|GitHub.PortableGit.Helpers.SSHKeyHelper|Setting environment variable in our blob cache. SSH_AUTH_SOCK = /tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:05:28.8121|INFO|thread:32|GitHub.PortableGit.Helpers.SSHKeyHelper|ssh-agent already running
+2013-02-26 22:05:28.8321|INFO|thread:32|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:05:28.8321|INFO|thread:32|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:05:28.8321|INFO|thread:32|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\ssh-add.exe', Args: '"C:\Users\Chriss\.ssh\github_rsa"'
+2013-02-26 22:05:28.8321|INFO|thread:32|GitHub.PortableGit.Helpers.SSHKeyHelper|Found existing SSH key pair
+2013-02-26 22:05:29.1431|INFO|thread:37|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:05:29.2761|INFO|thread:37|GitHub.Api.ObservableRestClient|https://api.github.com/user/keys
+2013-02-26 22:05:29.2761|INFO|thread:32|GitHub.ViewModels.LoginViewModel|SSH key was added to GitHub account
+2013-02-26 22:05:29.4271|INFO|thread:11|GitHub.Api.ObservableRestClient|https://api.github.com/user
+2013-02-26 22:05:29.7102|INFO|thread:11|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:05:29.8322|INFO|thread:39|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:05:29.8642|INFO|thread:11|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:05:29.8642|INFO|thread:11|GitHub.ViewModels.DashboardViewModel|Refreshing list of repos
+2013-02-26 22:05:29.9782|INFO|thread:11|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Private&page=0&per_page=100
+2013-02-26 22:05:30.3172|INFO|thread:39|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Public&page=0&per_page=100
+2013-02-26 22:05:30.4502|INFO|thread:39|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Member&page=0&per_page=100
+2013-02-26 22:05:30.7962|INFO|thread:39|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:05:30.9272|INFO|thread:11|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:05:32.5883|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:05:32.5883|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:05:32.5883|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:05:32.6323|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:05:32.6473|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:05:32.6473|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:05:32.6473|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:05:32.6473|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:05:32.6473|INFO|thread:42|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:05:32.6503|INFO|thread:40|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:05:32.6503|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:05:35.6185|INFO|thread:1|GitHub.Models.File|Rendering diff for file '.gitignore'
+2013-02-26 22:05:35.6185|INFO|thread:35|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:05:35.6185|INFO|thread:35|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:05:35.6185|INFO|thread:35|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: '--no-pager diff HEAD --no-ext-diff --no-color -- ".gitignore" '
+2013-02-26 22:05:35.6585|WARN|thread:35|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+GitHub.IO.ProcessException: fatal: bad revision 'HEAD'
+   at System.Reactive.PlatformServices.DefaultExceptionServices.Rethrow(Exception exception)
+   at System.Reactive.ExceptionHelpers.ThrowIfNotNull(Exception exception)
+   at System.Reactive.Linq.Observαble.GetEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at GitHub.Helpers.Git.<>c__DisplayClass49.<LoadDiffForFile>b__46()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:05:35.6635|ERROR|thread:1|GitHub.Models.File|Failed to get diff text for this file
+GitHub.IO.ProcessException: fatal: bad revision 'HEAD'
+   at System.Reactive.PlatformServices.DefaultExceptionServices.Rethrow(Exception exception)
+   at System.Reactive.ExceptionHelpers.ThrowIfNotNull(Exception exception)
+   at System.Reactive.Linq.Observαble.GetEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at GitHub.Helpers.Git.<>c__DisplayClass49.<LoadDiffForFile>b__46()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:05:38.2486|INFO|thread:1|GitHub.Models.FilesContextMenu|explorer.exe /select,E:\Programming\MyRepository\JavaApp\.gitignore
+2013-02-26 22:05:52.2635|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:05:52.2735|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:05:52.2735|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:05:52.2735|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:05:52.2735|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:05:52.2735|INFO|thread:30|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:05:52.2735|INFO|thread:38|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:05:52.3025|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:06:06.5933|INFO|thread:36|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:06:06.6273|INFO|thread:36|GitHub.Helpers.Git|Creating new commit with 3 file(s). First Change
+2013-02-26 22:06:06.6273|WARN|thread:36|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:06:06.6273|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:07:56.2845|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:07:56.2845|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:07:56.2845|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:07:56.2845|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:07:56.2845|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:07:56.2965|INFO|thread:22|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:07:56.2965|INFO|thread:22|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:07:56.3225|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:07:57.4066|INFO|thread:22|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:07:57.4066|INFO|thread:22|GitHub.Helpers.Git|Creating new commit with 3 file(s). First Change
+2013-02-26 22:07:57.4066|WARN|thread:22|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:07:57.4176|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:07:59.9598|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:08:01.4558|INFO|thread:1|GitHub.Models.RepositoryHost|Logged user chrissbme off.
+2013-02-26 22:08:01.4558|INFO|thread:1|GitHub.Helpers.LoginCache|Erasing the git credential cache for host 'api.github.com'
+2013-02-26 22:08:01.4598|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:08:01.4598|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:08:02.9939|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:08:03.4420|INFO|thread:8|GitHub.Api.ObservableRestClient|https://api.github.com/users/Test-Octowin
+2013-02-26 22:08:08.2462|INFO|thread:8|GitHub.Api.ObservableRestClient|https://api.github.com/user
+2013-02-26 22:08:08.2462|INFO|thread:8|GitHub.Models.RepositoryHost|Logging in succeeded. Saving credentials.
+2013-02-26 22:08:08.2462|INFO|thread:8|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:08:08.2462|INFO|thread:8|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:08:08.2462|INFO|thread:15|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-02-26 22:08:08.2462|INFO|thread:10|GitHub.ViewModels.LoginViewModel|Running post login tasks. ~/.gitconfig is set up with user.name = '' and user.email = ''
+2013-02-26 22:08:08.2652|INFO|thread:9|GitHub.PortableGit.Helpers.SSHKeyHelper|Setting environment variable in our blob cache. SSH_AGENT_PID = 8132
+2013-02-26 22:08:08.2652|INFO|thread:9|GitHub.PortableGit.Helpers.SSHKeyHelper|Setting environment variable in our blob cache. SSH_AUTH_SOCK = /tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:08:08.2652|INFO|thread:9|GitHub.PortableGit.Helpers.SSHKeyHelper|ssh-agent already running
+2013-02-26 22:08:08.2652|INFO|thread:9|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:08:08.2652|INFO|thread:9|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:08:08.2652|INFO|thread:9|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\ssh-add.exe', Args: '"C:\Users\Chriss\.ssh\github_rsa"'
+2013-02-26 22:08:08.2652|INFO|thread:9|GitHub.PortableGit.Helpers.SSHKeyHelper|Found existing SSH key pair
+2013-02-26 22:08:09.1453|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user
+2013-02-26 22:08:09.5403|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:08:09.5403|INFO|thread:6|GitHub.ViewModels.DashboardViewModel|Refreshing list of repos
+2013-02-26 22:08:09.6553|INFO|thread:34|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:08:09.6553|INFO|thread:8|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Private&page=0&per_page=100
+2013-02-26 22:08:09.6643|INFO|thread:34|GitHub.Helpers.Git|Creating new commit with 3 file(s). First Change
+2013-02-26 22:08:09.6643|WARN|thread:34|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:08:09.6643|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:08:09.9063|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Public&page=0&per_page=100
+2013-02-26 22:08:10.3683|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Member&page=0&per_page=100
+2013-02-26 22:08:11.3984|INFO|thread:1|GitHub.Models.UserSettings|Refreshing user settings
+2013-02-26 22:08:11.3984|INFO|thread:1|GitHub.Models.UserSettings|Refreshed user settings
+2013-02-26 22:08:11.3984|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:08:11.3984|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\NativeBinaries/x86;C:\Users\Chriss\AppData\Local\Google\Chrome\Application;E:\app\Chriss\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+2013-02-26 22:08:11.9844|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:08:12.1034|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:08:12.2205|INFO|thread:8|GitHub.Api.ObservableRestClient|https://api.github.com/user/keys
+2013-02-26 22:08:12.2205|INFO|thread:9|GitHub.ViewModels.LoginViewModel|SSH key was added to GitHub account
+2013-02-26 22:08:16.8867|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:08:16.8867|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:08:16.8867|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:08:16.8867|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:08:16.8867|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:08:16.8867|INFO|thread:19|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:08:16.8867|INFO|thread:16|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:08:16.9227|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:08:16.9877|INFO|thread:1|GitHub.Models.File|Rendering diff for file 'jkdfgnsdf.bmp'
+2013-02-26 22:08:16.9877|INFO|thread:17|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:08:16.9877|INFO|thread:17|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:08:16.9957|INFO|thread:17|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: '--no-pager diff HEAD --no-ext-diff --no-color -- "jkdfgnsdf.bmp" '
+2013-02-26 22:08:17.0207|WARN|thread:17|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+GitHub.IO.ProcessException: fatal: bad revision 'HEAD'
+   at System.Reactive.PlatformServices.DefaultExceptionServices.Rethrow(Exception exception)
+   at System.Reactive.ExceptionHelpers.ThrowIfNotNull(Exception exception)
+   at System.Reactive.Linq.Observαble.GetEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at GitHub.Helpers.Git.<>c__DisplayClass49.<LoadDiffForFile>b__46()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:08:17.0207|ERROR|thread:1|GitHub.Models.File|Failed to get diff text for this file
+GitHub.IO.ProcessException: fatal: bad revision 'HEAD'
+   at System.Reactive.PlatformServices.DefaultExceptionServices.Rethrow(Exception exception)
+   at System.Reactive.ExceptionHelpers.ThrowIfNotNull(Exception exception)
+   at System.Reactive.Linq.Observαble.GetEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at GitHub.Helpers.Git.<>c__DisplayClass49.<LoadDiffForFile>b__46()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:08:59.7562|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:08:59.7562|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:08:59.7562|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:08:59.7562|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:08:59.7562|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:08:59.7562|INFO|thread:15|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:08:59.7562|INFO|thread:9|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:08:59.7832|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:09:01.3723|INFO|thread:15|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:09:01.3813|INFO|thread:15|GitHub.Helpers.Git|Creating new commit with 3 file(s). First Change
+2013-02-26 22:09:01.3813|WARN|thread:15|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:09:01.3813|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:09:12.3629|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:09:13.9640|INFO|thread:1|GitHub.Models.RepositoryHost|Logged user chrissbme off.
+2013-02-26 22:09:13.9700|INFO|thread:1|GitHub.Helpers.LoginCache|Erasing the git credential cache for host 'api.github.com'
+2013-02-26 22:09:13.9700|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:09:13.9700|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.LogoutViewModel.
+2013-02-26 22:09:17.8012|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:09:17.8012|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:09:17.8012|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:09:18.1922|INFO|thread:11|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:09:22.7535|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:09:22.7535|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:09:22.7535|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:09:22.7825|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:09:22.8025|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:09:22.8025|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:09:22.8025|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:09:22.8025|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:09:22.8025|INFO|thread:28|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:09:22.8025|INFO|thread:6|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:09:22.8165|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:09:27.9338|INFO|thread:6|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:09:27.9338|INFO|thread:6|GitHub.Helpers.Git|Creating new commit with 3 file(s). ,  é
+2013-02-26 22:09:27.9338|WARN|thread:6|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:09:27.9458|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:09:31.6200|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:09:32.0870|INFO|thread:8|GitHub.Api.ObservableRestClient|https://api.github.com/users/Test-Octowin
+2013-02-26 22:09:33.2411|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.ShellViewModel.
+2013-02-26 22:09:33.2411|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:09:33.2411|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:16:00.6812|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.ShellViewModel.
+2013-02-26 22:09:36.5543|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache
+2013-02-26 22:09:36.5543|INFO|thread:1|GitHub.Helpers.PortablePackageManager|Already extracted chromium-pack.7z, returning 100%
+2013-02-26 22:09:36.5593|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache.api.github.com
+2013-02-26 22:09:36.5593|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\Cef_115967
+2013-02-26 22:09:36.5593|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6
+2013-02-26 22:09:36.5593|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\PoshGit_e0fc5e56ff55708a890f408f03656f758fa0ba8a
+2013-02-26 22:09:36.8533|INFO|thread:1|GitHub.Models.UserSettings|Refreshing user settings
+2013-02-26 22:09:37.0123|INFO|thread:1|GitHub.Models.UserSettings|Refreshed user settings
+2013-02-26 22:09:37.0313|WARN|thread:4|GitHub.Models.RepositoryHostCollection|Failed to get repository host URIs from cache.
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+2013-02-26 22:09:37.1473|WARN|thread:1|POCOObservableForProperty|GitHub.ViewModels.AppContext is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-02-26 22:09:37.1653|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache
+2013-02-26 22:09:37.1653|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache.api.github.com
+2013-02-26 22:09:37.1653|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\Cef_115967
+2013-02-26 22:09:37.1653|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6
+2013-02-26 22:09:37.1653|INFO|thread:5|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\PoshGit_e0fc5e56ff55708a890f408f03656f758fa0ba8a
+2013-02-26 22:09:37.1653|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Started app with command: 
+2013-02-26 22:09:37.1813|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Parsing command line arguments:
+2013-02-26 22:09:37.1813|INFO|thread:1|GitHub.Helpers.CommandLineHandler|
+C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\GitHub.exe
+2013-02-26 22:09:37.1813|INFO|thread:1|GitHub.Helpers.AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2013-02-26 22:09:37.1813|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2013-02-26 22:09:37.1813|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| #########################################
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| GitHub for Windows started. VERSION: 1.0.38.1
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| Build version: 1bdeaaf90f28db3bb49c2aa78040f2f09169c920
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***************************************
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***        Have a problem?          ***
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***    Email support@github.com     ***
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***      and include this file      ***
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| ***************************************
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| CLR Version: 4.0.30319.18034
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| Current culture: en-US
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| Terminal Services session: no
+2013-02-26 22:09:37.2313|INFO|thread:4|GitHub.AppStartup.StartupLogging| Location: C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\GitHub.exe
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2013-02-26 22:09:37.2473|INFO|thread:1|GitHub.Helpers.ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\Images\App.ico'
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;E:\app\Chriss\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging| =====================================================
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging|  DIAGNOSTICS                                        |
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging| =====================================================
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging| Git Extracted: 'True:
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging| PortableGit Dir Exists: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6'
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging| Git Executable Exists: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe'
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging| ----------------------------------------------------
+2013-02-26 22:09:37.2473|INFO|thread:4|GitHub.AppStartup.StartupLogging| PATH: E:\app\Chriss\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+2013-02-26 22:09:37.2613|INFO|thread:4|GitHub.Helpers.StartupLogger|Proxy information: (None)
+2013-02-26 22:09:37.2613|INFO|thread:4|GitHub.Helpers.StartupLogger|Couldn't fetch creds for proxy
+2013-02-26 22:09:37.2613|INFO|thread:4|GitHub.Helpers.UrlProtocolInstaller|URL Protocol already registered
+2013-02-26 22:09:37.6253|INFO|thread:1|GitHub.ViewModels.GitExtractionVisualHelper|Portable Git is already extracted
+2013-02-26 22:09:37.6253|INFO|thread:13|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache
+2013-02-26 22:09:37.6253|INFO|thread:13|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\BlobCache.api.github.com
+2013-02-26 22:09:37.6253|INFO|thread:13|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\Cef_115967
+2013-02-26 22:09:37.6253|INFO|thread:13|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6
+2013-02-26 22:09:37.6253|INFO|thread:13|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\Chriss\AppData\Local\GitHub\PoshGit_e0fc5e56ff55708a890f408f03656f758fa0ba8a
+2013-02-26 22:09:37.6523|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2013-02-26 22:09:37.6523|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:09:37.8814|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:09:38.3854|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/users/Test-Octowin
+2013-02-26 22:09:38.7634|INFO|thread:14|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:09:47.2659|INFO|thread:16|GitHub.ViewModels.SoftwareUpdateViewModel|Checking for new version
+2013-02-26 22:09:48.3830|INFO|thread:14|GitHub.Api.ObservableRestClient|https://github-windows.s3.amazonaws.com/changelog.json
+2013-02-26 22:09:50.9611|INFO|thread:14|GitHub.Api.ObservableRestClient|https://api.github.com/user
+2013-02-26 22:09:50.9611|INFO|thread:14|GitHub.Models.RepositoryHost|Logging in succeeded. Saving credentials.
+2013-02-26 22:09:51.0481|INFO|thread:14|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:09:51.0481|INFO|thread:14|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.LoginViewModel.
+2013-02-26 22:09:51.0601|INFO|thread:12|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-02-26 22:09:51.0711|INFO|thread:13|GitHub.ViewModels.LoginViewModel|Running post login tasks. ~/.gitconfig is set up with user.name = '' and user.email = ''
+2013-02-26 22:09:51.0811|INFO|thread:17|GitHub.PortableGit.Helpers.SSHKeyHelper|Setting environment variable in our blob cache. SSH_AGENT_PID = 8132
+2013-02-26 22:09:51.0811|INFO|thread:17|GitHub.PortableGit.Helpers.SSHKeyHelper|Setting environment variable in our blob cache. SSH_AUTH_SOCK = /tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:09:51.0811|INFO|thread:17|GitHub.PortableGit.Helpers.SSHKeyHelper|ssh-agent already running
+2013-02-26 22:09:51.0811|INFO|thread:17|GitHub.Helpers.PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2013-02-26 22:09:51.0811|INFO|thread:17|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:09:51.0811|INFO|thread:17|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:09:51.0811|INFO|thread:17|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\ssh-add.exe', Args: '"C:\Users\Chriss\.ssh\github_rsa"'
+2013-02-26 22:09:51.0811|INFO|thread:17|GitHub.PortableGit.Helpers.SSHKeyHelper|Found existing SSH key pair
+2013-02-26 22:09:51.4961|WARN|thread:6|GitHub.Api.Extensions.RestSharpJsonDotNetSerializer|Error while deserializing JSON response into a 'List`1'
+2013-02-26 22:09:51.4961|INFO|thread:6|GitHub.Api.Extensions.RestSharpJsonDotNetSerializer|	Response.ResponseUri: 'https://api.github.com/user/orgs?page=0&per_page=100'
+2013-02-26 22:09:51.4961|INFO|thread:6|GitHub.Api.Extensions.RestSharpJsonDotNetSerializer|	Response.StatusCode: 'Unauthorized'
+2013-02-26 22:09:51.4961|INFO|thread:6|GitHub.Api.Extensions.RestSharpJsonDotNetSerializer|	Response.Content: '{"message":"Bad credentials"}'
+2013-02-26 22:09:51.4961|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:09:51.6101|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:09:51.7321|INFO|thread:14|GitHub.Api.ObservableRestClient|https://api.github.com/repos/chrissbme/JavaApp/stats/participation
+2013-02-26 22:09:54.5203|INFO|thread:14|GitHub.Api.ObservableRestClient|https://api.github.com/user
+2013-02-26 22:09:54.8113|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:09:54.8113|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.DashboardViewModel.
+2013-02-26 22:09:54.8113|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:09:54.8773|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:09:54.9173|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:09:54.9173|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:09:54.9173|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:09:54.9173|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:09:54.9363|INFO|thread:24|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:09:54.9363|INFO|thread:18|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:09:54.9563|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:09:54.9833|INFO|thread:26|GitHub.Api.ObservableRestClient|https://api.github.com/user/orgs?page=0&per_page=100
+2013-02-26 22:09:54.9833|INFO|thread:26|GitHub.ViewModels.DashboardViewModel|Refreshing list of repos
+2013-02-26 22:09:55.0003|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/keys
+2013-02-26 22:09:55.0003|INFO|thread:17|GitHub.ViewModels.LoginViewModel|SSH key was added to GitHub account
+2013-02-26 22:09:55.1043|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Private&page=0&per_page=100
+2013-02-26 22:09:55.2693|INFO|thread:25|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Public&page=0&per_page=100
+2013-02-26 22:09:55.2793|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-02-26 22:09:55.2793|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-02-26 22:09:55.2793|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-02-26 22:09:55.4464|INFO|thread:6|GitHub.Api.ObservableRestClient|https://api.github.com/user/repos?type=Member&page=0&per_page=100
+2013-02-26 22:09:58.1515|INFO|thread:5|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:09:58.1745|INFO|thread:5|GitHub.Helpers.Git|Creating new commit with 3 file(s). klk
+2013-02-26 22:09:58.1745|WARN|thread:5|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:09:58.2025|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:10:01.8017|INFO|thread:1|GitHub.Models.UserSettings|Refreshing user settings
+2013-02-26 22:10:01.8017|INFO|thread:1|GitHub.Models.UserSettings|Refreshed user settings
+2013-02-26 22:10:01.8017|INFO|thread:1|GitHub.Helpers.PortablePackageManager|Already extracted posh-git.7z, returning 100%
+2013-02-26 22:10:01.8017|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:10:01.8017|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\NativeBinaries/x86;E:\app\Chriss\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+2013-02-26 22:11:12.3538|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:11:12.3618|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:11:12.3618|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:11:12.3618|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:11:12.3618|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:11:12.3618|INFO|thread:30|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:11:12.3618|INFO|thread:31|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:11:12.3918|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:11:13.9278|INFO|thread:31|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:11:13.9368|INFO|thread:31|GitHub.Helpers.Git|Creating new commit with 3 file(s). klk
+2013-02-26 22:11:13.9368|WARN|thread:31|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:11:13.9368|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:11:17.4230|INFO|thread:27|GitHub.Helpers.Git|Creating Commit
+2013-02-26 22:11:17.4320|INFO|thread:27|GitHub.Helpers.Git|Creating new commit with 3 file(s). klk
+2013-02-26 22:11:17.4320|WARN|thread:27|GitHub.Helpers.KeyedOperationQueue|Failure running queued op
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:11:17.4320|WARN|thread:1|GitHub.Extensions.StandardUserErrors|Showing user error Please open the options menu from the dashboard and update your name and email settings.
+LibGit2Sharp.LibGit2SharpException: Can not find Name and Email settings of the current user in Git configuration.
+   at LibGit2Sharp.RepositoryExtensions.BuildSignatureFromGlobalConfiguration(IRepository repository, DateTimeOffset now)
+   at LibGit2Sharp.RepositoryExtensions.Commit(IRepository repository, String message, Boolean amendPreviousCommit)
+   at GitHub.Helpers.Git.<>c__DisplayClassf.<CreateCommit>b__c()
+   at GitHub.Helpers.KeyedOperationQueue.<>c__DisplayClass10`1.<SafeStart>b__f()
+2013-02-26 22:11:18.3331|INFO|thread:1|GitHub.Models.UserSettings|Refreshing user settings
+2013-02-26 22:11:18.3331|INFO|thread:1|GitHub.Models.UserSettings|Refreshed user settings
+2013-02-26 22:11:18.3331|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:11:18.3331|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780\NativeBinaries/x86;E:\app\Chriss\product\11.2.0\dbhome_1\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\
+2013-02-26 22:11:22.0463|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:11:22.0463|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:11:22.0463|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:11:22.0463|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:11:22.0463|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:11:22.0463|INFO|thread:32|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:11:22.0463|INFO|thread:31|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:11:22.0813|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:11:53.5391|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:11:53.5481|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:11:53.5481|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:11:53.5481|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:11:53.5481|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:11:53.5481|INFO|thread:37|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:11:53.5481|INFO|thread:37|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:11:53.5711|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:11:56.5213|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:11:56.5213|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:11:56.5213|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:11:56.5213|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:11:56.5213|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:11:56.5213|INFO|thread:28|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:11:56.5213|INFO|thread:35|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:11:56.5573|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:15:05.9561|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:15:05.9561|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:15:05.9561|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:15:05.9561|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:15:05.9561|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:15:05.9561|INFO|thread:44|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:15:05.9731|INFO|thread:45|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:15:05.9881|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:15:31.0326|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:15:31.0396|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:15:31.0396|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:15:31.0396|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:15:31.0396|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:15:31.0396|INFO|thread:40|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:15:31.0396|INFO|thread:35|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:15:31.0656|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:15:59.4732|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-02-26 22:15:59.4812|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, 
+2013-02-26 22:15:59.4812|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 8132:/tmp/ssh-GgDtah5748/agent.5748
+2013-02-26 22:15:59.4812|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\cmd;C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin;C:\Users\Chriss\AppData\Local\Apps\2.0\W5BZYQQ9.37K\J76K4ZKE.JQT\gith..tion_8f45a2159c87c850_0001.0000_f67358978db19780;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2013-02-26 22:15:59.4812|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\Chriss\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-02-26 22:15:59.4812|INFO|thread:38|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:15:59.4812|INFO|thread:38|GitHub.Helpers.Git|Loading commits for repo: E:\Programming\MyRepository\JavaApp
+2013-02-26 22:15:59.5062|INFO|thread:1|GitHub.Models.Sync|Refresh ahead/behind counts skipped b/c branch isn't published or is null
+2013-02-26 22:16:00.6812|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.ShellViewModel.
+2013-02-26 22:16:00.6812|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryViewModel.
+2013-02-26 22:16:00.6812|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.RepositoryViewModel.
